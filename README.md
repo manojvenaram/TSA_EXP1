@@ -1,5 +1,5 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 16-02-2024
+###  Date: 21-02-2024
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
